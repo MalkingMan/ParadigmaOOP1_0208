@@ -6,7 +6,7 @@ class jantung
 public:
     
 public:
-    jantung()
+    jantung() 
     {
         cout << "jantung dihidupkan\n";
     }
