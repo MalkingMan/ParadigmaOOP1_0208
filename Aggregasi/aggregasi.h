@@ -5,3 +5,7 @@ class anak
 {
 public:
     string nama;
+    anak(string pNama) :nama(pNama)
+    {
+        
+    }
