@@ -10,5 +10,11 @@ public:
     
     manusia(string pName) : name(pName)
     {
-        cout 
+        cout << name << " Hidup\n";
     }
+    ~manusia() 
+    {
+        cout << name << "Mati\n";
+    }
+};
+#endif
